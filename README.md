@@ -16,14 +16,14 @@ Instances which are registered with the Eureka Server:\n
 
 ------
 
-POSTMAN LINK:
+POSTMAN LINK: <br>
 https://www.getpostman.com/collections/62e03a70f43f02118d11
 
 --------------
 
-API END-POINTS:
+API END-POINTS: <br>
 
-1) ADMIN SERVICES:
+1) ADMIN SERVICES: <br>
 
 1.1)SIGNUP:
 
@@ -54,7 +54,7 @@ Payload:
 Method: GET
 Endpoint: http://localhost:8081/user/get-users
 
----------------------------------------------------------------------------
+-----------
 
 2) SHOP SERVICES:
 
@@ -87,8 +87,8 @@ Payload:
 "description": "Clothes"
 }
 
+--------------
 
--------------------------------------------------------------------------
 3) CONSUMER SERVICES: (TOKEN REQUIRED)
 
 3.1) CATEGORIES:
@@ -151,5 +151,4 @@ allowed fields: description OR name OR id OR price
 Method: DELETE
 Endpoint: http://localhost:8082/consumer/shop-management/delete-product-by-id/{id}
 
-
----------------------------------------------------------------------------------------------------	
+------
