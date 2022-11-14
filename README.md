@@ -9,14 +9,17 @@ Services and Their Port Nos:
 6. Shop Service      : 8084
 
 
-
+---
 
 Instances which are registered with the Eureka Server:\n
 ![Screenshot (927)](https://user-images.githubusercontent.com/112845470/201756666-768330e0-4568-4099-89ec-333a00db51b0.png)
 
+------
+
 POSTMAN LINK:
 https://www.getpostman.com/collections/62e03a70f43f02118d11
 
+--------------
 
 API END-POINTS:
 
